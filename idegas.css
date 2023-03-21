@@ -1,0 +1,48 @@
+header{
+    background-color: #505050;
+    width: 90%;
+    height: 8em;
+    margin: 0 5%;
+}
+
+nav{
+    background-color: #909090;
+    width: 90%;
+    height: 2em;
+    margin: 0 5%;
+}
+
+main{
+    background-color: #e0e0e0;
+    width: 90%;
+    height: 16em;
+    margin: 0 5%;
+}
+
+footer{
+    background-color: #606060;
+    width: 90%;
+    height: 3em;
+    margin: 0 5%;
+}
+
+.image{
+    width: 15em;
+    height: 8em;
+}
+
+.pack1{
+    width: 21em;
+    height: 15em;
+}
+
+.pack2{
+    width: 21em;
+    height: 15.5em;
+}
+
+.mejn{
+    display: flex;
+    justify-content: space-around;
+    align-content: flex-end;
+}

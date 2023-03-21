@@ -27,6 +27,7 @@ footer{
 }
 
 .image{
+    padding-left: 1em;
     width: 15em;
     height: 8em;
 }
